@@ -15,6 +15,8 @@
 * 单体应用与微服务
     ![单体应用与微服务](SingleApplicationAndMicroservice.svg)
 ### 1.3.2 容器
+* 容器技术分为运行时和编排两层
+    ![容器技术](ContainerTech.svg)
 ### 1.3.3 服务网格
 * Service Mesh与微服务
     ![Service Mesh与微服务](ServiceMeshAndMicroservice.svg)
