@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 DevOps.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="7.104in" height="5.40978in"
+		viewBox="0 0 511.488 389.504" xml:space="preserve" color-interpolation-filters="sRGB" class="st3">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Rectangle)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:#000000;stroke-width:3}
+		.st2 {fill:#000000;font-family:黑体;font-size:3em}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape3-1" v:mID="3" v:groupContext="shape" transform="translate(192.213,-21)">
+			<title>圆形</title>
+			<desc>运维</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="332.811" width="99.22" height="85.0394"/>
+			<path d="M0 332.81 A56.6929 56.6929 0 0 1 113.39 332.81 A56.6929 56.6929 0 1 1 0 332.81 Z" class="st1"/>
+			<text x="20.69" y="344.79" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>运维</text>		</g>
+		<g id="shape4-4" v:mID="4" v:groupContext="shape" transform="translate(21,-255.118)">
+			<title>圆形.4</title>
+			<desc>开发</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="332.811" width="99.22" height="85.0394"/>
+			<path d="M0 332.81 A56.6929 56.6929 0 0 1 113.39 332.81 A56.6929 56.6929 0 1 1 0 332.81 Z" class="st1"/>
+			<text x="20.69" y="344.79" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>开发</text>		</g>
+		<g id="shape7-7" v:mID="7" v:groupContext="shape" transform="translate(377.102,-255.118)">
+			<title>圆形.7</title>
+			<desc>测试</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="332.811" width="99.22" height="85.0394"/>
+			<path d="M0 332.81 A56.6929 56.6929 0 0 1 113.39 332.81 A56.6929 56.6929 0 1 1 0 332.81 Z" class="st1"/>
+			<text x="20.69" y="344.79" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>测试</text>		</g>
+		<g id="shape9-10" v:mID="9" v:groupContext="shape" transform="translate(134.386,-311.811)">
+			<title>普通双箭头</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ArrowType" v:prompt="" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<path d="M0 389.5 L11.34 378.17 L11.34 383.83 L231.38 383.83 L231.38 378.17 L242.72 389.5 L231.38 400.84 L231.38 395.17
+						 L11.34 395.17 L11.34 400.84 L0 389.5 Z" class="st1"/>
+		</g>
+		<g id="shape10-12" v:mID="10" v:groupContext="shape" transform="translate(453.057,-80.4733) rotate(59.4024)">
+			<title>普通双箭头.10</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ArrowType" v:prompt="" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<path d="M0 389.5 L11.34 378.17 L11.34 383.83 L167.49 383.83 L167.49 378.17 L178.83 389.5 L167.49 400.84 L167.49 395.17
+						 L11.34 395.17 L11.34 400.84 L0 389.5 Z" class="st1"/>
+		</g>
+		<g id="shape11-14" v:mID="11" v:groupContext="shape" transform="translate(715.764,336.851) rotate(124.223)">
+			<title>普通双箭头.11</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ArrowType" v:prompt="" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<path d="M0 389.5 L11.34 378.17 L11.34 383.83 L174.83 383.83 L174.83 378.17 L186.17 389.5 L174.83 400.84 L174.83 395.17
+						 L11.34 395.17 L11.34 400.84 L0 389.5 Z" class="st1"/>
+		</g>
+	</g>
+</svg>
