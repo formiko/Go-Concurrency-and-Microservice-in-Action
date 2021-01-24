@@ -3,3 +3,4 @@
 ### 2.1.1 单体架构
 *   单体架构
     ![单体架构](Monolith.svg)
+* 分层架构 ![分层架构](LayeredArchitecture.svg)
