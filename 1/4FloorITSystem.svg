@@ -2,8 +2,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- 由 Microsoft Visio, SVG Export 生成 4FloorITSystem.svg Page-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
-		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="8.26772in"
-		viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st8">
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.0934in" height="7.45043in"
+		viewBox="0 0 798.724 536.431" xml:space="preserve" color-interpolation-filters="sRGB" class="st8">
 	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
 		<v:userDefs>
 			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Rectangle)"/>
@@ -32,7 +32,7 @@
 		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
 				v:shadowOffsetY="-8.50394"/>
 		<v:layer v:name="容器" v:index="0"/>
-		<g id="shape8-1" v:mID="8" v:groupContext="shape" transform="translate(42.5197,-510.695)">
+		<g id="shape8-1" v:mID="8" v:groupContext="shape" transform="translate(21.9997,-465.739)">
 			<title>圆角的矩形</title>
 			<desc>传统IT</desc>
 			<v:userDefs>
@@ -54,12 +54,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st1"/>
-			<text x="45.08" y="580.46" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>传统<tspan class="st3">IT</tspan></text>		</g>
-		<g id="shape9-5" v:mID="9" v:groupContext="shape" transform="translate(42.5197,-460.974)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st1"/>
+			<text x="45.08" y="521.62" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>传统<tspan class="st3">IT</tspan></text>		</g>
+		<g id="shape9-5" v:mID="9" v:groupContext="shape" transform="translate(21.9997,-416.018)">
 			<title>圆角的矩形.9</title>
 			<desc>应用程序</desc>
 			<v:userDefs>
@@ -81,12 +81,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st4"/>
-			<text x="29.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>应用程序</text>		</g>
-		<g id="shape10-8" v:mID="10" v:groupContext="shape" transform="translate(42.5197,-411.253)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st4"/>
+			<text x="29.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>应用程序</text>		</g>
+		<g id="shape10-8" v:mID="10" v:groupContext="shape" transform="translate(21.9997,-366.297)">
 			<title>圆角的矩形.10</title>
 			<desc>数据</desc>
 			<v:userDefs>
@@ -108,12 +108,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st4"/>
-			<text x="53.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>数据</text>		</g>
-		<g id="shape11-11" v:mID="11" v:groupContext="shape" transform="translate(42.5197,-361.532)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st4"/>
+			<text x="53.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>数据</text>		</g>
+		<g id="shape11-11" v:mID="11" v:groupContext="shape" transform="translate(21.9997,-316.576)">
 			<title>圆角的矩形.11</title>
 			<desc>运行</desc>
 			<v:userDefs>
@@ -135,12 +135,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st4"/>
-			<text x="53.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>运行</text>		</g>
-		<g id="shape12-14" v:mID="12" v:groupContext="shape" transform="translate(42.5197,-311.811)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st4"/>
+			<text x="53.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>运行</text>		</g>
+		<g id="shape12-14" v:mID="12" v:groupContext="shape" transform="translate(21.9997,-266.855)">
 			<title>圆角的矩形.12</title>
 			<desc>中间件</desc>
 			<v:userDefs>
@@ -162,12 +162,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st4"/>
-			<text x="41.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>中间件</text>		</g>
-		<g id="shape18-17" v:mID="18" v:groupContext="shape" transform="translate(42.5197,-262.09)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st4"/>
+			<text x="41.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>中间件</text>		</g>
+		<g id="shape18-17" v:mID="18" v:groupContext="shape" transform="translate(21.9997,-217.134)">
 			<title>圆角的矩形.18</title>
 			<desc>操作系统</desc>
 			<v:userDefs>
@@ -189,12 +189,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st4"/>
-			<text x="29.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>操作系统</text>		</g>
-		<g id="shape19-20" v:mID="19" v:groupContext="shape" transform="translate(42.5197,-212.369)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st4"/>
+			<text x="29.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>操作系统</text>		</g>
+		<g id="shape19-20" v:mID="19" v:groupContext="shape" transform="translate(21.9997,-167.413)">
 			<title>圆角的矩形.19</title>
 			<desc>虚拟化</desc>
 			<v:userDefs>
@@ -216,12 +216,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st4"/>
-			<text x="41.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>虚拟化</text>		</g>
-		<g id="shape21-23" v:mID="21" v:groupContext="shape" transform="translate(42.5197,-162.648)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st4"/>
+			<text x="41.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>虚拟化</text>		</g>
+		<g id="shape21-23" v:mID="21" v:groupContext="shape" transform="translate(21.9997,-117.692)">
 			<title>圆角的矩形.21</title>
 			<desc>服务器</desc>
 			<v:userDefs>
@@ -243,12 +243,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st4"/>
-			<text x="41.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>服务器</text>		</g>
-		<g id="shape22-26" v:mID="22" v:groupContext="shape" transform="translate(42.5197,-112.927)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st4"/>
+			<text x="41.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>服务器</text>		</g>
+		<g id="shape22-26" v:mID="22" v:groupContext="shape" transform="translate(21.9997,-67.971)">
 			<title>圆角的矩形.22</title>
 			<desc>存储</desc>
 			<v:userDefs>
@@ -270,12 +270,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st4"/>
-			<text x="53.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>存储</text>		</g>
-		<g id="shape23-29" v:mID="23" v:groupContext="shape" transform="translate(42.5197,-63.2058)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st4"/>
+			<text x="53.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>存储</text>		</g>
+		<g id="shape23-29" v:mID="23" v:groupContext="shape" transform="translate(21.9997,-18.25)">
 			<title>圆角的矩形.23</title>
 			<desc>网络</desc>
 			<v:userDefs>
@@ -297,12 +297,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st4"/>
-			<text x="53.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>网络</text>		</g>
-		<g id="shape115-32" v:mID="115" v:groupContext="shape" transform="translate(244.488,-512.754)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st4"/>
+			<text x="53.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>网络</text>		</g>
+		<g id="shape115-32" v:mID="115" v:groupContext="shape" transform="translate(223.968,-467.798)">
 			<title>圆角的矩形.115</title>
 			<desc>IaaS</desc>
 			<v:userDefs>
@@ -324,12 +324,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st1"/>
-			<text x="57.92" y="579.67" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>IaaS</text>		</g>
-		<g id="shape116-35" v:mID="116" v:groupContext="shape" transform="translate(244.488,-463.033)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st1"/>
+			<text x="57.92" y="520.83" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>IaaS</text>		</g>
+		<g id="shape116-35" v:mID="116" v:groupContext="shape" transform="translate(223.968,-418.077)">
 			<title>圆角的矩形.116</title>
 			<desc>应用程序</desc>
 			<v:userDefs>
@@ -351,12 +351,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st4"/>
-			<text x="29.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>应用程序</text>		</g>
-		<g id="shape117-38" v:mID="117" v:groupContext="shape" transform="translate(244.488,-413.312)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st4"/>
+			<text x="29.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>应用程序</text>		</g>
+		<g id="shape117-38" v:mID="117" v:groupContext="shape" transform="translate(223.968,-368.356)">
 			<title>圆角的矩形.117</title>
 			<desc>数据</desc>
 			<v:userDefs>
@@ -378,12 +378,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st4"/>
-			<text x="53.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>数据</text>		</g>
-		<g id="shape118-41" v:mID="118" v:groupContext="shape" transform="translate(244.488,-363.591)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st4"/>
+			<text x="53.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>数据</text>		</g>
+		<g id="shape118-41" v:mID="118" v:groupContext="shape" transform="translate(223.968,-318.635)">
 			<title>圆角的矩形.118</title>
 			<desc>运行</desc>
 			<v:userDefs>
@@ -405,12 +405,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st4"/>
-			<text x="53.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>运行</text>		</g>
-		<g id="shape119-44" v:mID="119" v:groupContext="shape" transform="translate(244.488,-313.87)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st4"/>
+			<text x="53.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>运行</text>		</g>
+		<g id="shape119-44" v:mID="119" v:groupContext="shape" transform="translate(223.968,-268.914)">
 			<title>圆角的矩形.119</title>
 			<desc>中间件</desc>
 			<v:userDefs>
@@ -432,12 +432,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st4"/>
-			<text x="41.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>中间件</text>		</g>
-		<g id="shape120-47" v:mID="120" v:groupContext="shape" transform="translate(244.488,-264.148)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st4"/>
+			<text x="41.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>中间件</text>		</g>
+		<g id="shape120-47" v:mID="120" v:groupContext="shape" transform="translate(223.968,-219.193)">
 			<title>圆角的矩形.120</title>
 			<desc>操作系统</desc>
 			<v:userDefs>
@@ -459,12 +459,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st4"/>
-			<text x="29.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>操作系统</text>		</g>
-		<g id="shape121-50" v:mID="121" v:groupContext="shape" transform="translate(244.488,-214.427)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st4"/>
+			<text x="29.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>操作系统</text>		</g>
+		<g id="shape121-50" v:mID="121" v:groupContext="shape" transform="translate(223.968,-169.472)">
 			<title>圆角的矩形.121</title>
 			<desc>虚拟化</desc>
 			<v:userDefs>
@@ -486,12 +486,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st7"/>
-			<text x="41.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>虚拟化</text>		</g>
-		<g id="shape122-53" v:mID="122" v:groupContext="shape" transform="translate(244.488,-164.706)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st7"/>
+			<text x="41.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>虚拟化</text>		</g>
+		<g id="shape122-53" v:mID="122" v:groupContext="shape" transform="translate(223.968,-119.751)">
 			<title>圆角的矩形.122</title>
 			<desc>服务器</desc>
 			<v:userDefs>
@@ -513,12 +513,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st7"/>
-			<text x="41.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>服务器</text>		</g>
-		<g id="shape123-56" v:mID="123" v:groupContext="shape" transform="translate(244.488,-114.985)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st7"/>
+			<text x="41.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>服务器</text>		</g>
+		<g id="shape123-56" v:mID="123" v:groupContext="shape" transform="translate(223.968,-70.0296)">
 			<title>圆角的矩形.123</title>
 			<desc>存储</desc>
 			<v:userDefs>
@@ -540,12 +540,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st7"/>
-			<text x="53.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>存储</text>		</g>
-		<g id="shape124-59" v:mID="124" v:groupContext="shape" transform="translate(244.488,-65.2643)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st7"/>
+			<text x="53.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>存储</text>		</g>
+		<g id="shape124-59" v:mID="124" v:groupContext="shape" transform="translate(223.968,-20.3085)">
 			<title>圆角的矩形.124</title>
 			<desc>网络</desc>
 			<v:userDefs>
@@ -567,12 +567,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st7"/>
-			<text x="53.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>网络</text>		</g>
-		<g id="shape135-62" v:mID="135" v:groupContext="shape" transform="translate(439.37,-511.724)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st7"/>
+			<text x="53.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>网络</text>		</g>
+		<g id="shape135-62" v:mID="135" v:groupContext="shape" transform="translate(418.85,-466.769)">
 			<title>圆角的矩形.135</title>
 			<desc>PaaS</desc>
 			<v:userDefs>
@@ -594,12 +594,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st1"/>
-			<text x="54.74" y="579.67" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>PaaS</text>		</g>
-		<g id="shape136-65" v:mID="136" v:groupContext="shape" transform="translate(439.37,-462.003)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st1"/>
+			<text x="54.74" y="520.83" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>PaaS</text>		</g>
+		<g id="shape136-65" v:mID="136" v:groupContext="shape" transform="translate(418.85,-417.048)">
 			<title>圆角的矩形.136</title>
 			<desc>应用程序</desc>
 			<v:userDefs>
@@ -621,12 +621,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st4"/>
-			<text x="29.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>应用程序</text>		</g>
-		<g id="shape137-68" v:mID="137" v:groupContext="shape" transform="translate(439.37,-412.282)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st4"/>
+			<text x="29.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>应用程序</text>		</g>
+		<g id="shape137-68" v:mID="137" v:groupContext="shape" transform="translate(418.85,-367.327)">
 			<title>圆角的矩形.137</title>
 			<desc>数据</desc>
 			<v:userDefs>
@@ -648,12 +648,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st4"/>
-			<text x="53.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>数据</text>		</g>
-		<g id="shape138-71" v:mID="138" v:groupContext="shape" transform="translate(439.37,-362.561)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st4"/>
+			<text x="53.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>数据</text>		</g>
+		<g id="shape138-71" v:mID="138" v:groupContext="shape" transform="translate(418.85,-317.606)">
 			<title>圆角的矩形.138</title>
 			<desc>运行</desc>
 			<v:userDefs>
@@ -675,12 +675,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st7"/>
-			<text x="53.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>运行</text>		</g>
-		<g id="shape139-74" v:mID="139" v:groupContext="shape" transform="translate(439.37,-312.84)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st7"/>
+			<text x="53.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>运行</text>		</g>
+		<g id="shape139-74" v:mID="139" v:groupContext="shape" transform="translate(418.85,-267.884)">
 			<title>圆角的矩形.139</title>
 			<desc>中间件</desc>
 			<v:userDefs>
@@ -702,12 +702,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st7"/>
-			<text x="41.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>中间件</text>		</g>
-		<g id="shape140-77" v:mID="140" v:groupContext="shape" transform="translate(439.37,-263.119)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st7"/>
+			<text x="41.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>中间件</text>		</g>
+		<g id="shape140-77" v:mID="140" v:groupContext="shape" transform="translate(418.85,-218.163)">
 			<title>圆角的矩形.140</title>
 			<desc>操作系统</desc>
 			<v:userDefs>
@@ -729,12 +729,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st7"/>
-			<text x="29.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>操作系统</text>		</g>
-		<g id="shape141-80" v:mID="141" v:groupContext="shape" transform="translate(439.37,-213.398)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st7"/>
+			<text x="29.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>操作系统</text>		</g>
+		<g id="shape141-80" v:mID="141" v:groupContext="shape" transform="translate(418.85,-168.442)">
 			<title>圆角的矩形.141</title>
 			<desc>虚拟化</desc>
 			<v:userDefs>
@@ -756,12 +756,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st7"/>
-			<text x="41.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>虚拟化</text>		</g>
-		<g id="shape142-83" v:mID="142" v:groupContext="shape" transform="translate(439.37,-163.677)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st7"/>
+			<text x="41.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>虚拟化</text>		</g>
+		<g id="shape142-83" v:mID="142" v:groupContext="shape" transform="translate(418.85,-118.721)">
 			<title>圆角的矩形.142</title>
 			<desc>服务器</desc>
 			<v:userDefs>
@@ -783,12 +783,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st7"/>
-			<text x="41.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>服务器</text>		</g>
-		<g id="shape143-86" v:mID="143" v:groupContext="shape" transform="translate(439.37,-113.956)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st7"/>
+			<text x="41.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>服务器</text>		</g>
+		<g id="shape143-86" v:mID="143" v:groupContext="shape" transform="translate(418.85,-69.0003)">
 			<title>圆角的矩形.143</title>
 			<desc>存储</desc>
 			<v:userDefs>
@@ -810,12 +810,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st7"/>
-			<text x="53.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>存储</text>		</g>
-		<g id="shape144-89" v:mID="144" v:groupContext="shape" transform="translate(439.37,-64.2351)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st7"/>
+			<text x="53.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>存储</text>		</g>
+		<g id="shape144-89" v:mID="144" v:groupContext="shape" transform="translate(418.85,-19.2793)">
 			<title>圆角的矩形.144</title>
 			<desc>网络</desc>
 			<v:userDefs>
@@ -837,12 +837,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st7"/>
-			<text x="53.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>网络</text>		</g>
-		<g id="shape145-92" v:mID="145" v:groupContext="shape" transform="translate(641.339,-513.783)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st7"/>
+			<text x="53.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>网络</text>		</g>
+		<g id="shape145-92" v:mID="145" v:groupContext="shape" transform="translate(620.819,-468.827)">
 			<title>圆角的矩形.145</title>
 			<desc>SaaS</desc>
 			<v:userDefs>
@@ -864,12 +864,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st1"/>
-			<text x="55.43" y="579.67" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>SaaS</text>		</g>
-		<g id="shape146-95" v:mID="146" v:groupContext="shape" transform="translate(641.339,-464.062)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st1"/>
+			<text x="55.43" y="520.83" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>SaaS</text>		</g>
+		<g id="shape146-95" v:mID="146" v:groupContext="shape" transform="translate(620.819,-419.106)">
 			<title>圆角的矩形.146</title>
 			<desc>应用程序</desc>
 			<v:userDefs>
@@ -891,12 +891,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st7"/>
-			<text x="29.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>应用程序</text>		</g>
-		<g id="shape147-98" v:mID="147" v:groupContext="shape" transform="translate(641.339,-414.341)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st7"/>
+			<text x="29.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>应用程序</text>		</g>
+		<g id="shape147-98" v:mID="147" v:groupContext="shape" transform="translate(620.819,-369.385)">
 			<title>圆角的矩形.147</title>
 			<desc>数据</desc>
 			<v:userDefs>
@@ -918,12 +918,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st7"/>
-			<text x="53.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>数据</text>		</g>
-		<g id="shape148-101" v:mID="148" v:groupContext="shape" transform="translate(641.339,-364.62)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st7"/>
+			<text x="53.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>数据</text>		</g>
+		<g id="shape148-101" v:mID="148" v:groupContext="shape" transform="translate(620.819,-319.664)">
 			<title>圆角的矩形.148</title>
 			<desc>运行</desc>
 			<v:userDefs>
@@ -945,12 +945,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st7"/>
-			<text x="53.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>运行</text>		</g>
-		<g id="shape149-104" v:mID="149" v:groupContext="shape" transform="translate(641.339,-314.899)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st7"/>
+			<text x="53.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>运行</text>		</g>
+		<g id="shape149-104" v:mID="149" v:groupContext="shape" transform="translate(620.819,-269.943)">
 			<title>圆角的矩形.149</title>
 			<desc>中间件</desc>
 			<v:userDefs>
@@ -972,12 +972,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st7"/>
-			<text x="41.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>中间件</text>		</g>
-		<g id="shape150-107" v:mID="150" v:groupContext="shape" transform="translate(641.339,-265.178)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st7"/>
+			<text x="41.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>中间件</text>		</g>
+		<g id="shape150-107" v:mID="150" v:groupContext="shape" transform="translate(620.819,-220.222)">
 			<title>圆角的矩形.150</title>
 			<desc>操作系统</desc>
 			<v:userDefs>
@@ -999,12 +999,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st7"/>
-			<text x="29.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>操作系统</text>		</g>
-		<g id="shape151-110" v:mID="151" v:groupContext="shape" transform="translate(641.339,-215.457)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st7"/>
+			<text x="29.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>操作系统</text>		</g>
+		<g id="shape151-110" v:mID="151" v:groupContext="shape" transform="translate(620.819,-170.501)">
 			<title>圆角的矩形.151</title>
 			<desc>虚拟化</desc>
 			<v:userDefs>
@@ -1026,12 +1026,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st7"/>
-			<text x="41.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>虚拟化</text>		</g>
-		<g id="shape152-113" v:mID="152" v:groupContext="shape" transform="translate(641.339,-165.736)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st7"/>
+			<text x="41.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>虚拟化</text>		</g>
+		<g id="shape152-113" v:mID="152" v:groupContext="shape" transform="translate(620.819,-120.78)">
 			<title>圆角的矩形.152</title>
 			<desc>服务器</desc>
 			<v:userDefs>
@@ -1053,12 +1053,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st7"/>
-			<text x="41.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>服务器</text>		</g>
-		<g id="shape153-116" v:mID="153" v:groupContext="shape" transform="translate(641.339,-116.015)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st7"/>
+			<text x="41.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>服务器</text>		</g>
+		<g id="shape153-116" v:mID="153" v:groupContext="shape" transform="translate(620.819,-71.0588)">
 			<title>圆角的矩形.153</title>
 			<desc>存储</desc>
 			<v:userDefs>
@@ -1080,12 +1080,12 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st7"/>
-			<text x="53.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>存储</text>		</g>
-		<g id="shape154-119" v:mID="154" v:groupContext="shape" transform="translate(641.339,-66.2936)">
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st7"/>
+			<text x="53.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>存储</text>		</g>
+		<g id="shape154-119" v:mID="154" v:groupContext="shape" transform="translate(620.819,-21.3378)">
 			<title>圆角的矩形.154</title>
 			<desc>网络</desc>
 			<v:userDefs>
@@ -1107,10 +1107,10 @@
 				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.21653543170353):1"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="77.9528" cy="572.474" width="155.91" height="45.604"/>
-			<path d="M15.59 595.28 L140.31 595.28 A15.5903 15.5903 -180 0 0 155.91 579.69 L155.91 565.26 A15.5903 15.5903 -180 0
-						 0 140.31 549.67 L15.59 549.67 A15.5903 15.5903 -180 0 0 0 565.26 L0 579.69 A15.5903 15.5903 -180 0 0 15.59
-						 595.28 Z" class="st7"/>
-			<text x="53.95" y="580.46" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>网络</text>		</g>
+			<v:textRect cx="77.9528" cy="513.629" width="155.91" height="45.604"/>
+			<path d="M15.59 536.43 L140.31 536.43 A15.5903 15.5903 -180 0 0 155.91 520.84 L155.91 506.42 A15.5903 15.5903 -180 0
+						 0 140.31 490.83 L15.59 490.83 A15.5903 15.5903 -180 0 0 0 506.42 L0 520.84 A15.5903 15.5903 -180 0 0 15.59
+						 536.43 Z" class="st7"/>
+			<text x="53.95" y="521.62" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>网络</text>		</g>
 	</g>
 </svg>
