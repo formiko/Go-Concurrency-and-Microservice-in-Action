@@ -96,3 +96,58 @@ func main() {
         fmt.Printf("我叫%v%v，我的ID是%v", *surname, personalname, *id)
     }
     ```
+## 3.5 函数与接口
+### 3.5.5 函数体实现接口
+``` Go
+package main
+
+import "fmt"
+
+type Printer interface {
+	Print(interface{})
+}
+type FuncCaller func(p interface{})
+func (funcCaller FuncCaller) Print(p interface{}) {
+	funcCaller(p)
+}
+func main() {
+	var printer Printer
+	printer = FuncCaller(func(p interface{}){
+		fmt.Println(p)
+	})
+	printer.Print("Golang is Good!")
+}
+```
+## 3.6 结构体和方法
+### 3.6.4 结构体实现接口
+``` Go
+package main
+import "fmt"
+type Cat interface {
+	CatchMouse()
+}
+type Dog interface {
+	Bark()
+}
+type CatDog struct {
+	Name string
+}
+func (catDog *CatDog) CatchMouse() {
+	fmt.Printf("%v caught the mouse and ate it!\n", catDog.Name)
+}
+func (catDog *CatDog) Bark() {
+	fmt.Printf("%v barked loudly!\n", catDog.Name)
+}
+func main() {
+	catDog := &CatDog{
+		"Lucy",
+	}
+	var cat Cat
+	cat = catDog
+	cat.CatchMouse()
+
+	var dog Dog
+	dog = catDog
+	dog.Bark()
+}
+```
