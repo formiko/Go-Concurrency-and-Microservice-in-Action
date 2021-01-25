@@ -78,3 +78,21 @@ func main() {
 	}
 }
 ```
+
+## 3.3 基本语法
+### 3.3.3 指针
+* 使用flag从命令行读取数据
+    ``` Go
+    package main
+
+    import "flag"
+    import "fmt"
+    func main() {
+        surname := flag.String("surname", "王", "你的姓")
+        var personalname string
+        flag.StringVar(&personalname, "personalname", "小二", "你的名")
+        id := flag.Int("id", 0, "你的ID" )
+        flag.Parse()
+        fmt.Printf("我叫%v%v，我的ID是%v", *surname, personalname, *id)
+    }
+    ```
