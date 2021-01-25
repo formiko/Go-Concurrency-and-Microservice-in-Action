@@ -151,3 +151,34 @@ func main() {
 	dog.Bark()
 }
 ```
+### 3.6.5 内嵌和组合
+* 组合
+    ``` Go
+    package main
+    import "fmt"
+    type Swimming struct {
+    }
+    func (swim *Swimming) swim() {
+        fmt.Println("swimming is my ability")
+    }
+    type Flying struct {
+    }
+    func (fly *Flying) fly() {
+        fmt.Println("flying is my ability")
+    }
+    type WildDuck struct {
+        Swimming
+        Flying
+    }
+    type DomesticDuck struct {
+        Swimming
+    }
+    func main() {
+        wild := WildDuck{}
+        wild.fly()
+        wild.swim()
+
+        domestic := DomesticDuck{}
+        domestic.swim()
+    }
+    ```
